@@ -1,0 +1,55 @@
+/*********************************TAG Selector**********************/
+
+body {
+  background: #EEEDDE;
+}
+
+hr {
+  border-color: #203239;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  width: 30%;
+}
+
+h1 {
+  color: #203239;
+}
+
+h3 {
+  color: #203239;
+}
+
+a {
+  color: #203239;
+}
+
+img {
+  border: 4px solid #203239;
+  border-radius: 4px;
+  width: thick;
+  padding: 5px;
+}
+
+em {
+  color: #141E27;
+  font-size: 15px;
+}
+
+/*********************************Class Selector**********************/
+
+.circular {
+  border-radius: 100%;
+}
+
+/*********************************ID Selector**********************/
+
+/*********************************Class sudo Selectors**********************/
+img:hover {
+
+  border: 4px solid #203239;
+  border-radius: 8px;
+  width: thick;
+  padding: 5px;
+
+}
